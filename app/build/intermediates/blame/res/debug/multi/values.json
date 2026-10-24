@@ -1,0 +1,273 @@
+[
+    {
+        "outputFile": "C:\\Users\\droid\\Desktop\\frozen-bubble-android-master1\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "C:\\Users\\droid\\Desktop\\frozen-bubble-android-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 50,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 106,
+                    "endColumn": 118,
+                    "endOffset": 220
+                },
+                "from": {
+                    "file": "C:\\Users\\droid\\Desktop\\frozen-bubble-android-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 751,
+                        "endColumn": 118,
+                        "endOffset": 865
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 225,
+                    "endColumn": 122,
+                    "endOffset": 343
+                },
+                "from": {
+                    "file": "C:\\Users\\droid\\Desktop\\frozen-bubble-android-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 870,
+                        "endColumn": 122,
+                        "endOffset": 988
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 348,
+                    "endColumn": 58,
+                    "endOffset": 402
+                },
+                "from": {
+                    "file": "C:\\Users\\droid\\Desktop\\frozen-bubble-android-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 529,
+                        "endColumn": 58,
+                        "endOffset": 583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 407,
+                    "endColumn": 72,
+                    "endOffset": 475
+                },
+                "from": {
+                    "file": "C:\\Users\\droid\\Desktop\\frozen-bubble-android-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 228,
+                        "endColumn": 72,
+                        "endOffset": 296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 480,
+                    "endColumn": 70,
+                    "endOffset": 546
+                },
+                "from": {
+                    "file": "C:\\Users\\droid\\Desktop\\frozen-bubble-android-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 157,
+                        "endColumn": 70,
+                        "endOffset": 223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 551,
+                    "endColumn": 60,
+                    "endOffset": 607
+                },
+                "from": {
+                    "file": "C:\\Users\\droid\\Desktop\\frozen-bubble-android-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 588,
+                        "endColumn": 60,
+                        "endOffset": 644
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 612,
+                    "endColumn": 52,
+                    "endOffset": 660
+                },
+                "from": {
+                    "file": "C:\\Users\\droid\\Desktop\\frozen-bubble-android-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 698,
+                        "endColumn": 52,
+                        "endOffset": 746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 665,
+                    "endColumn": 62,
+                    "endOffset": 723
+                },
+                "from": {
+                    "file": "C:\\Users\\droid\\Desktop\\frozen-bubble-android-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 362,
+                        "endColumn": 62,
+                        "endOffset": 420
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 728,
+                    "endColumn": 60,
+                    "endOffset": 784
+                },
+                "from": {
+                    "file": "C:\\Users\\droid\\Desktop\\frozen-bubble-android-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 301,
+                        "endColumn": 60,
+                        "endOffset": 357
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 789,
+                    "endColumn": 50,
+                    "endOffset": 835
+                },
+                "from": {
+                    "file": "C:\\Users\\droid\\Desktop\\frozen-bubble-android-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 50,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 840,
+                    "endColumn": 48,
+                    "endOffset": 884
+                },
+                "from": {
+                    "file": "C:\\Users\\droid\\Desktop\\frozen-bubble-android-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 649,
+                        "endColumn": 48,
+                        "endOffset": 693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 889,
+                    "endColumn": 52,
+                    "endOffset": 937
+                },
+                "from": {
+                    "file": "C:\\Users\\droid\\Desktop\\frozen-bubble-android-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 476,
+                        "endColumn": 52,
+                        "endOffset": 524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 942,
+                    "endColumn": 50,
+                    "endOffset": 988
+                },
+                "from": {
+                    "file": "C:\\Users\\droid\\Desktop\\frozen-bubble-android-master1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 425,
+                        "endColumn": 50,
+                        "endOffset": 471
+                    }
+                }
+            }
+        ]
+    }
+]
